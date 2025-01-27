@@ -1,11 +1,12 @@
+
 # <img src="https://i.redd.it/lsp80gjd72u41.jpg" width="80" height="80" style="vertical-align: middle; margin-right: 15px;" /> Welcome to my GitHub page
 ### 🌟 **Aspiring Polymath | Pre-Engineering Student | Future Data Analyst**  
 #### Coding & Robotics Hobbyist | Lifelong Learner  
 
 ---
 
-> "𝑻𝒉𝒆 𝒐𝒏𝒍𝒚 𝒕𝒓𝒖𝒆 𝒘𝒊𝒔𝒅𝒐𝒎 𝒊𝒔 𝒊𝒏 𝒌𝒏𝒐𝒘𝒊𝒏𝒈 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅 𝒎𝒐𝒓𝒆 𝒔𝒉𝒊𝒊𝒊𝒊… 𝒔𝒍𝒆𝒆𝒑, 𝒃𝒓𝒐." 
- – 𝑺𝒐𝒄𝒓𝒂𝒕𝒆𝒔 (𝒑𝒓𝒐𝒃𝒂𝒃𝒍𝒚)
+> "𝑻𝒉𝒆 𝒐𝒏𝒍𝒚 𝒕𝒓𝒖𝒆 𝒘𝒊𝒔𝒅𝒐𝒎 𝒊𝒔 𝒊𝒏 𝒌𝒏𝒐𝒘𝒊𝒏𝒈 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅 𝒎𝒐𝒓𝒆 𝒔𝒉𝒊𝒊𝒊𝒊… 𝒔𝒍𝒆𝒆𝒑, 𝒃𝒓𝒐."  
+– 𝑺𝒐𝒄𝒓𝒂𝒕𝒆𝒔 (𝒑𝒓𝒐𝒃𝒂𝒃𝒍𝒚)
 
 ---
 
@@ -19,15 +20,15 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 🎯 **Future Goal:** Pursue a Ph.D. in mathematics and build a career in data analytics!  
 💼 **Open To Opportunities:** Internships, collaborations, or entry-level positions in engineering or data analysis.  
 
----
-
 ### **What I Do**  
 - **Engineering & Advanced Mathematics:** Currently studying engineering alongside advanced mathematics, including algebra and real analysis.
--   **Individual projects:** Creating and working on my own bots, apps & devices.  
+- **Individual Projects:** Creating and working on my own bots, apps, and devices.  
 - **Living:** Just trying to survive, balancing work & studies.
 
----
+### **Statistics**
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=ambient_gradient&show_icons=true)
 
+---
 
 ## **🛠️ Tech & Tools I Use**  
 ### Skilled & Experienced in:
@@ -49,8 +50,9 @@ My main goal is to become a great mathematician. At the same time, I want to lea
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48" height="48" alt="Linux" /></a>
 </p>
 
+---
 
-### Looking forward to learning:
+### Looking Forward to Learning:
 <p align="center">
   <img src="https://i.ytimg.com/vi/KnTDWeVnOCk/maxresdefault.jpg" width="300" height="150" style="margin: 10px 0;" />
 </p>
@@ -69,20 +71,62 @@ My main goal is to become a great mathematician. At the same time, I want to lea
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /></a>
 </p>
 
-
 ---
 
-## **🌌 More Stuff** 
+### **Contact Me**
 
-### Connections: 
-<p align="left"> <a href="https://discord.com/users/socratesocarji_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/socrateingeniour" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://socrateingeniour.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/socratesocarji" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/socrateingeniour" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-### Support Me:
+### Connections:
+<p align="left"> 
+  <a href="https://discord.com/users/socratesocarji_" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  
+  <a href="https://www.github.com/socrateingeniour" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  
+  <a href="https://socrateingeniour.hashnode.dev" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  
+  <a href="http://www.instagram.com/socratesocarji" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  
+  <a href="https://www.linkedin.com/in/socrateingeniour" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+</p>
+
+
+#### 🌍 **Support Me:**
 
 <ul style="list-style-type: none; margin: 0;">
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/socratesocarji"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/socratesocarji"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
 ---
+
+**Feel free to connect or collaborate!** 😊  
