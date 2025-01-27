@@ -1,4 +1,4 @@
-# <img src="https://i.redd.it/lsp80gjd72u41.jpg" alt="Welcome" style="width: 80px; height: 80px; vertical-align: middle; margin-right: 15px; margin-top: -10px;" /> Welcome to my GitHub page
+# <img src="https://i.redd.it/lsp80gjd72u41.jpg" alt="Welcome" style="width: 80px; height: 80px; vertical-align: middle; margin-right: 15px;" /> <span style="vertical-align: middle; line-height: 80px;">Welcome to my GitHub page</span>
 ### 🌟 **Aspiring Polymath | Pre-Engineering Student | Future Data Analyst**  
 #### Coding & Robotics Hobbyist | Lifelong Learner  
 
