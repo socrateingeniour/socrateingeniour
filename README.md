@@ -1,4 +1,4 @@
-# <div style="display: flex; align-items: center;"><img src="https://i.redd.it/lsp80gjd72u41.jpg" alt="Welcome" style="width: 80px; height: 80px; margin-right: 15px;" /> Welcome to my GitHub profile</div>
+# ![](https://i.redd.it/lsp80gjd72u41.jpg =80x80) Welcome to my GitHub page
 ### 🌟 **Aspiring Polymath | Pre-Engineering Student | Future Data Analyst**  
 #### Coding & Robotics Hobbyist | Lifelong Learner  
 
