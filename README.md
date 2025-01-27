@@ -31,6 +31,7 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 ### **Statistics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FFD700&border_radius=5" width="48%" />
+  <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socrateingeniour&layout=compact&theme=vision-friendly-dark&show_icons=true&border_color=FFD700&border_radius=5" width="48%" />
 </p>
 
