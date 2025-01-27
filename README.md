@@ -30,7 +30,7 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 - **Living:** Just trying to survive, balancing work & studies.
 
 ### **Statistics**
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=ambient_gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FFD700&border_radius=5)
 
 ---
 
