@@ -1,11 +1,11 @@
-# <img src="https://i.redd.it/lsp80gjd72u41.jpg" alt="Welcome" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 10px;" /> Welcome to my GitHub page
+# <img src="https://i.redd.it/lsp80gjd72u41.jpg" alt="Welcome" style="width: 80px; height: 80px; vertical-align: middle; margin-right: 15px;" /> Welcome to my GitHub page
 ### 🌟 **Aspiring Polymath | Pre-Engineering Student | Future Data Analyst**  
 #### Coding & Robotics Hobbyist | Lifelong Learner  
 
 ---
 
-> *"The only true wisdom is in knowing you need more shiiiii… sleep, bro."*  
-> – Socrates (probably)
+> "𝑻𝒉𝒆 𝒐𝒏𝒍𝒚 𝒕𝒓𝒖𝒆 𝒘𝒊𝒔𝒅𝒐𝒎 𝒊𝒔 𝒊𝒏 𝒌𝒏𝒐𝒘𝒊𝒏𝒈 𝒚𝒐𝒖 𝒏𝒆𝒆𝒅 𝒎𝒐𝒓𝒆 𝒔𝒉𝒊𝒊𝒊𝒊… 𝒔𝒍𝒆𝒆𝒑, 𝒃𝒓𝒐." 
+> – 𝑺𝒐𝒄𝒓𝒂𝒕𝒆𝒔 (𝒑𝒓𝒐𝒃𝒂𝒃𝒍𝒚)
 
 ---
 
