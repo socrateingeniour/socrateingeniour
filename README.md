@@ -11,6 +11,9 @@
 ---
 
 ## **About Me**  
+
+
+
 My main goal is to become a great mathematician. At the same time, I want to learn about other areas and become a polymath—someone skilled in many different fields.
 - 🛠️ **Engineering:** Solving problems with practical solutions.  
 - 🤖 **Coding & Robotics:** Creating systems that combine creativity and technical skills.  
@@ -19,6 +22,7 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 
 🎯 **Future Goal:** Pursue a Ph.D. in mathematics and build a career in data analytics!  
 💼 **Open To Opportunities:** Internships, collaborations, or entry-level positions in engineering or data analysis.  
+
 
 ### **What I Do**  
 - **Engineering & Advanced Mathematics:** Currently studying engineering alongside advanced mathematics, including algebra and real analysis.
@@ -31,6 +35,9 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 ---
 
 ## **🛠️ Tech & Tools I Use**  
+
+
+
 ### Skilled & Experienced in:
 <p align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-Wdch0ijEiKZvrvxR8I5QDzYvWKyvyZrnQ&s" width="300" height="150" style="margin: 10px 0;" />
@@ -50,7 +57,6 @@ My main goal is to become a great mathematician. At the same time, I want to lea
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48" height="48" alt="Linux" /></a>
 </p>
 
----
 
 ### Looking Forward to Learning:
 <p align="center">
@@ -74,6 +80,7 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 ---
 
 ## **✉️ Contact Me**
+
 
 
 ### 🔗 **Connections:**
