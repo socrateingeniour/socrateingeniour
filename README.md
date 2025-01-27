@@ -49,7 +49,6 @@ My main goal is to become a great mathematician. At the same time, I want to lea
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48" height="48" alt="Linux" /></a>
 </p>
 
----
 
 ### Looking forward to learning:
 <p align="center">
