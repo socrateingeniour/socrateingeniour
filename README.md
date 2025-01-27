@@ -1,4 +1,4 @@
-# ![](https://i.redd.it/lsp80gjd72u41.jpg) Welcome to my GitHub page
+# <img src="https://i.redd.it/lsp80gjd72u41.jpg" alt="Welcome" style="width: 50px; height: 50px; vertical-align: middle; margin-right: 10px;" /> Welcome to my GitHub page
 ### 🌟 **Aspiring Polymath | Pre-Engineering Student | Future Data Analyst**  
 #### Coding & Robotics Hobbyist | Lifelong Learner  
 
