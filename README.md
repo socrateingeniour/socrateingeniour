@@ -23,7 +23,6 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 🎯 **Future Goal:** Pursue a Ph.D. in mathematics and build a career in data analytics!  
 💼 **Open To Opportunities:** Internships, collaborations, or entry-level positions in engineering or data analysis.  
 
-
 ### **What I Do**  
 - **Engineering & Advanced Mathematics:** Currently studying engineering alongside advanced mathematics, including algebra and real analysis.
 - **Individual Projects:** Creating and working on my own bots, apps, and devices.  
@@ -31,6 +30,7 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 
 ### **Statistics**
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FFD700&border_radius=5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=socrateingeniour&layout=compact&theme=vision-friendly-dark&show_icons=true&border_color=FFD700&border_radius=5)
 
 ---
 
