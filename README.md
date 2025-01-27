@@ -1,4 +1,4 @@
-![](https://i.redd.it/lsp80gjd72u41.jpg) Welcome to my github page
+# ![](https://i.redd.it/lsp80gjd72u41.jpg) Welcome to my GitHub page
 ### 🌟 **Aspiring Polymath | Pre-Engineering Student | Future Data Analyst**  
 #### Coding & Robotics Hobbyist | Lifelong Learner  
 
