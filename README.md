@@ -73,10 +73,10 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 
 ---
 
-### ✉️ **Contact Me**
+## **✉️ Contact Me**
 
 
-### 🔗 **Connections**:
+### 🔗 **Connections:**
 
 <p align="left"> 
   <a href="https://discord.com/users/socratesocarji_" target="_blank" rel="noreferrer"> 
