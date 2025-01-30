@@ -88,6 +88,7 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 
 ### 🔗 **Connections:**
 
+
 <p align="left"> 
   <a href="https://discord.com/users/socratesocarji_" target="_blank" rel="noreferrer"> 
     <picture> 
@@ -95,8 +96,9 @@ My main goal is to become a great mathematician. At the same time, I want to lea
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> 
     </picture> 
-  </a> 
-  
+  <a href="https://huggingface.co/socrateingeniour" target="_blank" rel="noreferrer">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face Logo" width="150" />
+  </a>
   <a href="https://www.github.com/socrateingeniour" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
@@ -106,7 +108,7 @@ My main goal is to become a great mathematician. At the same time, I want to lea
   </a> 
   
   <a href="https://socrateingeniour.hashnode.dev" target="_blank" rel="noreferrer"> 
-    <picture> 
+    <picture> https://raw.githubusercontent.com/danielcranney
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /> 
