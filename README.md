@@ -27,10 +27,20 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 
 ### **Statistics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FFD700&border_radius=5" width="48%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socrateingeniour&layout=compact&theme=vision-friendly-dark&show_icons=true&border_color=FFD700&border_radius=5" width="48%" />
+  <a href="https://github.com/socrateingeniour">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border=FFD700&radius=5" alt="socrateingeniour's GitHub streak"/>
+  </a>
 </p>
+
+<a> 
+    <a href="https://github.com/socrateingeniour"><img alt="socrateingeniour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FFD700&border_radius=5" height="320px" width="48%"/></a>
+  <a href="https://github.com/socrateingeniour"><img alt="socrateingeniour's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=socrateingeniour&langs_count=8&layout=compact&theme=vision-friendly-dark&show_icons=true&border_color=FFD700&border_radius=5" height="320px" width="48%"/></a>
+  <br/>
+</a>
+
+
+![socrateingeniour's Graph](https://github-readme-activity-graph.vercel.app/graph?username=socrateingeniour&custom_title=Socrate%20El%20Ingeniour's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=785ef0&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=ffb000&area=true&border_color=FFD700&radius=5)
+
 
 ---
 
@@ -38,39 +48,40 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 
 ### Skilled & Experienced in:
 <p align="center">
-  <img src="./assets/tom_welcome.gif" width="300" style="margin: 10px 0;" />
+  <img src="./assets/tom_welcome.jpg" width="300" style="margin: 10px 0;" />
 </p>
 
 <p align="center">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="48" height="48" alt="Python" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="48" height="48" alt="Java" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="48" height="48" alt="GNU Bash" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="48" height="48" alt="Git" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="48" height="48" alt="Linux" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="48" height="48" alt="VS Code" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="./assets/icons/java.svg" width="48" height="48" alt="Java" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="./assets/icons/terminal.svg" width="48" height="48" alt="GNU Bash" /></a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/git.png" width="48" height="48" alt="Git" /></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="./assets/icons/linux.svg" width="48" height="48" alt="Linux" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/code.svg" width="48" height="48" alt="VS Code" /></a>
+   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="./assets/icons/arduino.svg" width="48" height="48" alt="Arduino" /></a>
 </p>
 
 ### Looking Forward to Learning:
 <p align="center">
-  <img src="./assets/tom_learning.gif" width="300" style="margin: 10px 0;" />
+  <img src="./assets/tom_struggling.jpg" width="300" style="margin: 10px 0;" />
 </p>
 
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="48" height="48" alt="HTML5" /></a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="48" height="48" alt="CSS3" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="48" height="48" alt="JavaScript" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="48" height="48" alt="React" /></a>
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="48" height="48" alt="C++" /></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="48" height="48" alt="C#" /></a>
-  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="48" height="48" alt="Kotlin" /></a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="48" height="48" alt="Rust" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="48" height="48" alt="TypeScript" /></a>
-  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="48" height="48" alt="Raspberry Pi" /></a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="48" height="48" alt="Flutter" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="48" height="48" alt="Docker" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="48" height="48" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="48" height="48" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="./assets/icons/html.png" width="48" height="48" alt="HTML5" /></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="./assets/icons/css3.png" width="48" height="48" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="./assets/icons/javascript.svg" width="48" height="48" alt="JavaScript" /></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/react.svg" width="48" height="48" alt="React" /></a>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="./assets/icons/cplusplus.svg" width="48" height="48" alt="C++" /></a>
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="./assets/icons/csharp.svg" width="48" height="48" alt="C#" /></a>
+  <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/kotlin.svg" width="48" height="48" alt="Kotlin" /></a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/rust.svg" width="48" height="48" alt="Rust" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/typescript.svg" width="48" height="48" alt="TypeScript" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/raspberry.svg" width="48" height="48" alt="Raspberry Pi" /></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="./assets/icons/flutter.svg" width="48" height="48" alt="Flutter" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/docker-desktop.svg" width="48" height="48" alt="Docker" /></a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/mongodb-compass.svg" width="48" height="48" alt="MongoDB" /></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/mysql-workbench.svg" width="48" height="48" alt="MySQL" /></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/postgresql.svg" width="48" height="48" alt="PostgreSQL" /></a>
 </p>
 
 ---
