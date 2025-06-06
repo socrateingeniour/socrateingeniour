@@ -32,12 +32,10 @@ My main goal is to become a great mathematician. At the same time, I want to lea
   </a>
 </p>
 
-<a> 
-    <a href="https://github.com/socrateingeniour"><img alt="socrateingeniour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FFD700&border_radius=5" height="320px" width="48%"/></a>
+<p align="center">
+  <a href="https://github.com/socrateingeniour"><img alt="socrateingeniour's Github Stats" src="https://github-readme-stats.vercel.app/api?username=socrateingeniour&theme=vision-friendly-dark&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&border_color=FFD700&border_radius=5" height="320px" width="48%"/></a>
   <a href="https://github.com/socrateingeniour"><img alt="socrateingeniour's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=socrateingeniour&langs_count=8&layout=compact&theme=vision-friendly-dark&show_icons=true&border_color=FFD700&border_radius=5" height="320px" width="48%"/></a>
-  <br/>
-</a>
-
+</p>
 
 ![socrateingeniour's Graph](https://github-readme-activity-graph.vercel.app/graph?username=socrateingeniour&custom_title=Socrate%20El%20Ingeniour's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=785ef0&line=FFFFFF&point=FFFFFF&area_color=FFFFFF&title_color=ffb000&area=true&border_color=FFD700&radius=5)
 
@@ -52,18 +50,27 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 </p>
 
 <p align="center">
+  <strong><font size="+2">Absolutely nothing</font></strong>
+</p>
+
+
+### Struggling to Learn:
+<p align="center">
+  <img src="./assets/tom_struggling.jpg" width="300" style="margin: 10px 0;" />
+</p>
+<p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./assets/icons/python.svg" width="48" height="48" alt="Python" /></a>
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="./assets/icons/java.svg" width="48" height="48" alt="Java" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="./assets/icons/terminal.svg" width="48" height="48" alt="GNU Bash" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/git.png" width="48" height="48" alt="Git" /></a>
   <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="./assets/icons/linux.svg" width="48" height="48" alt="Linux" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./assets/icons/code.svg" width="48" height="48" alt="VS Code" /></a>
-   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="./assets/icons/arduino.svg" width="48" height="48" alt="Arduino" /></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="./assets/icons/arduino.svg" width="48" height="48" alt="Arduino" /></a>
 </p>
 
 ### Looking Forward to Learning:
 <p align="center">
-  <img src="./assets/tom_struggling.jpg" width="300" style="margin: 10px 0;" />
+  <img src="./assets/tom_sneak.jpg" width="300" style="margin: 10px 0;" />
 </p>
 
 <p align="center">
