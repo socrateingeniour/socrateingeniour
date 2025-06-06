@@ -89,11 +89,11 @@ My main goal is to become a great mathematician. At the same time, I want to lea
 ## **✉️ Contact Me**   |   🔗 **Connections**
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/socrateingeniour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" alt="LinkedIn" /></a>
-  <a href="https://www.github.com/socrateingeniour" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://discord.com/users/socratesocarji_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" width="32" height="32" alt="Discord" /></a>
-  <a href="http://www.instagram.com/socratesocarji" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" width="32" height="32" alt="Instagram" /></a>
-  <a href="https://huggingface.co/socrateingeniour" target="_blank" rel="noreferrer"><img src="./assets/huggingface_logo.svg" width="32" height="32" alt="Hugging Face" /></a>
+  <a href="https://www.linkedin.com/in/socrateingeniour" target="_blank" rel="noreferrer"><img src="./assets/linkedin-dark.svg" width="32" height="32" alt="LinkedIn" /></a>
+  <a href="https://www.github.com/socrateingeniour" target="_blank" rel="noreferrer"><img src="./assets/github-dark.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://discord.com/users/socratesocarji_" target="_blank" rel="noreferrer"><img src="./assets/discord-dark.svg" width="32" height="32" alt="Discord" /></a>
+  <a href="http://www.instagram.com/socratesocarji" target="_blank" rel="noreferrer"><img src="./assets/instagram-dark.svg" width="32" height="32" alt="Instagram" /></a>
+  <a href="https://huggingface.co/socrateingeniour" target="_blank" rel="noreferrer"><img src="./assets/huggingface.png" width="32" height="32" alt="Hugging Face" /></a>
 </p>
 
 ### 🌍 **Support Me:**
